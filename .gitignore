@@ -1,0 +1,4 @@
+Backend/scaler.pkl
+Backend/svm_model.pkl
+Backend/mnist_train.csv
+Backend/mnist_test.csv
